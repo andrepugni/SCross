@@ -5,7 +5,17 @@ This is the repository for the paper [A model agnostic heuristics for Selective 
 Data can be found [here](https://www.dropbox.com/sh/bvhrjdjkj1dyzry/AACsMi2IBKFIWqPoFlDJRhyHa?dl=0).
 
 
+## System specifics
+
+All the code was run on a machine with Ubuntu 20.04.4 and using programming language Python 3.8.12.
+
 ## Usage
+
+Create a new environment using:
+
+```bash
+  conda env create -n ENVNAME --file environment.yml
+  ```
 
 To run experiments on tabular data for Table 1:
 
