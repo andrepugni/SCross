@@ -17,12 +17,18 @@ We suggest to create a new environment using:
 ```bash
  $ conda env create -n ENVNAME --file environment.yml
   ```
+Activate environment and go to the code folder by using:
+
+```bash
+ $ conda activate ENVNAME
+ $ cd code
+  ```
+
 
 To run experiments on tabular data for Table 1
 
 - For PlugIn and SCross
   ```bash
-  $ cd code
   $ python exp_realdata.py --model lgbm --boot_iter 1000 --cv 5
   ```
 
