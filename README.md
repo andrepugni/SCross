@@ -11,18 +11,19 @@ All the code was run on a machine with Ubuntu 20.04.4 and using programming lang
 
 ## Usage
 
-Create a new environment using:
+Download this repository from github and then place downladed data in 'code/data'.
+We suggest to create a new environment using:
 
 ```bash
  $ conda env create -n ENVNAME --file environment.yml
   ```
 
-To run experiments on tabular data for Table 1:
-
+To run experiments on tabular data for Table 1
 
 - For PlugIn and SCross
   ```bash
-  $  python exp_realdata.py --model lgbm --boot_iter 1000 --cv 5
+  $ cd code
+  $ python exp_realdata.py --model lgbm --boot_iter 1000 --cv 5
   ```
 
 
