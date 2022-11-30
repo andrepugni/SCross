@@ -14,7 +14,7 @@ All the code was run on a machine with Ubuntu 20.04.4 and using programming lang
 Create a new environment using:
 
 ```bash
-  conda env create -n ENVNAME --file environment.yml
+ $ conda env create -n ENVNAME --file environment.yml
   ```
 
 To run experiments on tabular data for Table 1:
