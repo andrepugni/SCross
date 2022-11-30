@@ -1,8 +1,11 @@
-# SCross
+# A model-agnostic heuristics for Selective Classification
 
 
 This is the repository for the paper [A model agnostic heuristics for Selective Classification]().
 Data can be found [here](https://www.dropbox.com/sh/bvhrjdjkj1dyzry/AACsMi2IBKFIWqPoFlDJRhyHa?dl=0).
+
+
+## Usage
 
 To run experiments on tabular data for Table 1:
 
