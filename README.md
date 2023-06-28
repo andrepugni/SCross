@@ -14,7 +14,7 @@ Download this repository from github and then place downladed data in 'code/data
 We suggest to create a new environment using:
 
 ```bash
- $ conda env create -n ENVNAME --file environment.yml
+ $ conda create -n ENVNAME --file environment.yml
   ```
 Activate environment and go to the code folder by using:
 
