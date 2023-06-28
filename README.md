@@ -1,7 +1,7 @@
 # A model-agnostic heuristics for Selective Classification
 
+This is the repository for [A Model-agnostic Heuristics for Selective Classification](https://ojs.aaai.org/index.php/AAAI/article/view/26133).
 
-Data can be found [here](https://www.dropbox.com/sh/bvhrjdjkj1dyzry/AACsMi2IBKFIWqPoFlDJRhyHa?dl=0).
 
 
 ## System specifics
@@ -9,7 +9,7 @@ Data can be found [here](https://www.dropbox.com/sh/bvhrjdjkj1dyzry/AACsMi2IBKFI
 All the code was run on a machine with Ubuntu 20.04.4 and using programming language Python 3.8.12.
 
 ## Usage
-
+Data can be found [here](https://www.dropbox.com/sh/bvhrjdjkj1dyzry/AACsMi2IBKFIWqPoFlDJRhyHa?dl=0).
 Download this repository from github and then place downladed data in 'code/data'.
 We suggest to create a new environment using:
 
