@@ -1,6 +1,6 @@
 # A model-agnostic heuristics for Selective Classification
 
-This is the repository for [A Model-agnostic Heuristics for Selective Classification](https://ojs.aaai.org/index.php/AAAI/article/view/26133).
+This is the repository for the AAAI 2023 paper [A Model-agnostic Heuristics for Selective Classification](https://ojs.aaai.org/index.php/AAAI/article/view/26133).
 
 
 
